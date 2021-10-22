@@ -16,6 +16,8 @@
 
 **Github Actions** : [https://github.com/features/actions](https://github.com/features/actions)
 
+**CI/CD** : [https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
+
 
 
 
