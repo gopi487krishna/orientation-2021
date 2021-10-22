@@ -12,6 +12,8 @@
 
 **History and Philosophy of the GNU Project** : [https://www.gnu.org/philosophy/greve-clown.en.html](https://www.gnu.org/philosophy/greve-clown.en.html)
 
+**Git Pro Book** : [https://git-scm.com/](https://git-scm.com/)
+
 
 
 
